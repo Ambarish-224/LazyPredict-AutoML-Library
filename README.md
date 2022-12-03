@@ -7,7 +7,7 @@ with the help of Lazy Predict Library.
 
 💡 Lazypredict is a convenient wrapper library, that enables us to quickly fit all the models to our dataset and compare their performance. This way, we can see what works well “out of the box”.
 
-For knowing more about Lazypredict, check below links :-
+For knowing more about Lazypredict, check Lazypredict Documentation links :-
 [Lazypredict](https://lazypredict.readthedocs.io/en/latest/)
 
 
